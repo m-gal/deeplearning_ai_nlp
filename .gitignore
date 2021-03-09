@@ -1,0 +1,10 @@
+.vscode/
+__pycache__/
+*_videos/
+*_assignments/
+course1_NLP with Classification and Vector Spaces/c1_tmp2_data/corpora/twitter_samples.zip
+course1_NLP with Classification and Vector Spaces/c1_tmp2_data/corpora/stopwords.zip
+*Assignment.ipynb
+*tar.gz
+my_tests.py
+dl_ai_nlp.code-workspace
